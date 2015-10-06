@@ -1,0 +1,21 @@
+{
+    "name": "gercoli/laravel-cdn-s3",
+    "description": "Allows use of AWS S3 with laravel.",
+    "keywords": ["laravel", "cdn", "aws", "s3", "laravel-cdn"],
+    "type": "library",
+    "require": {
+        "php": ">=5.5.0",
+        "laravel/laravel": "5.1.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Garry Ercoli",
+            "email": "Garry@GErcoli.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
